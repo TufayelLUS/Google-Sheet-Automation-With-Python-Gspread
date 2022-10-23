@@ -11,3 +11,5 @@ Now rename the json file to "credentials.json" and place it with the python file
 # How to install the required libraries?
 In the terminal/command window, execute:
 <code>pip3 install gspread oauth2client</code>
+# Where can I get the Gspread Documentation?
+It's here: https://buildmedia.readthedocs.org/media/pdf/gspread/latest/gspread.pdf

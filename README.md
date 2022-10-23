@@ -1,4 +1,4 @@
-# Google-Sheet-Automation-With-Python-Gspread
+# Google Sheet Automation With Python Gspread Library
 This is a personal documentation repository for google spreadsheet automation using python and gspread library
 # How to get credentials.json file?
 1. Make the spreadsheet available on google drive
